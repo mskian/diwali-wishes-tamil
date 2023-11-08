@@ -184,7 +184,8 @@
         <script>
             window.addEventListener('DOMContentLoaded', event => {
                 const dwshare = document.getElementById('dw-share');
-                const title = document.getElementsByTagName('title');
+                const get_title = document.getElementsByTagName("title")[0];
+                const title = get_title.innerHTML
                 const pathname =
                     typeof window !== 'undefined' ? window.location.href : '';
                 const description = document
