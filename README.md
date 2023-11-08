@@ -12,6 +12,8 @@ Happy Diwali Greeting Generator - Create Happy Diwali Greeting Wishes with your 
 
 - Live Site - <https://wishes.tamilwords.net>  
 
+> அனைத்து விதமான இன்பங்களும் உங்கள் குடும்பத்திற்கு வந்தடைய இனிய தீபாவளி நல்வாழ்த்துக்கள்  
+
 ## Methods Used ⚙
 
 - HTML/CSS and Javascript
