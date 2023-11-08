@@ -4,11 +4,13 @@
 
 ⚡ Vitejs | ✨ Tailwind CSS | 📸 HTML Canvas  | 🌩 Netlify Hosting
 
-Send Diwali Name Wishes in Tamil - Diwali Wishes in Tamil Greeting card Image - Happy Diwali Wishes.
+Send Diwali Name Wishes in Tamil - Diwali Wishes in Tamil Greeting card Image - Happy Diwali Wishes.  
 
-> Happy Diwali Wishes Greeting image Maker with Name  | Diwali image Maker | Diwali Greeting Generator
+Happy Diwali Greeting Generator - Create Happy Diwali Greeting Wishes with your Name - Diwali Wishes in Tamil.  
 
-- Live Site - <https://wishes.tamilwords.net>
+> Happy Diwali Wishes Greeting image Maker with Name  | Diwali image Maker | Diwali Greeting Generator  
+
+- Live Site - <https://wishes.tamilwords.net>  
 
 ## Methods Used ⚙
 
