@@ -25,7 +25,7 @@ Happy Diwali Greeting Generator - Create Happy Diwali Greeting Wishes with your 
 - Slugify - Slugify the User input and Convert to URL
 - Netlify for Free Hosting - `netlify deploy --prod --dir=dist`
 - Netlify Prerendering - <https://docs.netlify.com/site-deploys/post-processing/prerendering/>
-- For Tracking I use Google Analytics v4 - Remove it or Replace mine with your Analytics ID
+- For Tracking I use Google Analytics v4 and Umami - Remove it or Replace mine with your Analytics ID
 
 ## Installation 📦
 
