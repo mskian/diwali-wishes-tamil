@@ -30,7 +30,7 @@
   "homepage": "https://github.com/mskian/diwali-wishes-tamil#readme",
   "devDependencies": {
     "@tailwindcss/forms": "^0.5.10",
-    "eslint": "^9.39.1",
+    "eslint": "^9.39.2",
     "prettier": "^3.7.4",
     "vite": "^7.2.7"
   },
