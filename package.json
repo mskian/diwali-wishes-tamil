@@ -37,7 +37,7 @@
   "dependencies": {
     "@tailwindcss/cli": "^4.2.2",
     "@tailwindcss/postcss": "^4.2.2",
-    "postcss": "^8.5.9",
+    "postcss": "^8.5.10",
     "slugify": "^1.6.9",
     "tailwindcss": "^4.2.2"
   }
