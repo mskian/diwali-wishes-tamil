@@ -35,10 +35,10 @@
     "vite": "^7.3.3"
   },
   "dependencies": {
-    "@tailwindcss/cli": "^4.2.4",
-    "@tailwindcss/postcss": "^4.2.4",
+    "@tailwindcss/cli": "^4.3.0",
+    "@tailwindcss/postcss": "^4.3.0",
     "postcss": "^8.5.14",
     "slugify": "^1.6.9",
-    "tailwindcss": "^4.2.4"
+    "tailwindcss": "^4.3.0"
   }
 }
